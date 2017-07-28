@@ -11,4 +11,5 @@ The book recommender uses colloborative filtering - cosine similarity (Data is S
 2. Dense, magnitude of the attribute values is important - Euclidean or Manhattan
 3. Sparse - Cosine Similarity
 
-Dataset: [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/){:target="_blank"}
+Dataset: [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
+<a href="http://www2.informatik.uni-freiburg.de/~cziegler/BX/" target="_blank">example</a>
