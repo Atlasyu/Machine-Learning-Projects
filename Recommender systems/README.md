@@ -12,4 +12,4 @@ The book recommender uses colloborative filtering - cosine similarity (Data is S
 3. Sparse - Cosine Similarity
 
 Dataset: [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
-<a href="http://www2.informatik.uni-freiburg.de/~cziegler/BX/" target="_blank">example</a>
+Dataset: [Book-Crossing Dataset]<a href="http://www2.informatik.uni-freiburg.de/~cziegler/BX/" target="_blank">example</a>
