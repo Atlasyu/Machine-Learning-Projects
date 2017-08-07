@@ -24,3 +24,9 @@ hyperparameter tuning:
 
 Dataset
 1. Kaggle - [SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+
+Few tutorials:
+1. [How To Build a Simple Spam-Detecting Machine Learning Classifier](https://hackernoon.com/how-to-build-a-simple-spam-detecting-machine-learning-classifier-4471fe6b816e)
+2. [Kaggle SMS spam detection 1](https://www.kaggle.com/muzzzdy/sms-spam-detection-with-various-classifiers)
+3. [Kaggle SMS spam detection 2](https://www.kaggle.com/futurist/text-preprocessing-and-machine-learning-modeling)
+4. [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
