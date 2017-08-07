@@ -7,17 +7,17 @@ Text analysis (NLP):
 4. sklearn.feature_extraction.text.TfidfVectorizer
 
 Classification:
-1. LogisticRegression
+1. LogisticRegression (random_state)
 2. KNeighborsClassifier
-3. DecisionTreeClassifier
-4. Support Vector Classification
+3. DecisionTreeClassifier (random_state)
+4. Support Vector Classification (random_state)
 5. MultinomialNB
 
 Ensembles:
-1. AdaBoostClassifier
-2. BaggingClassifier
-3. RandomForestClassifier
-4. ExtraTreesClassifier
+1. AdaBoostClassifier (random_state)
+2. BaggingClassifier (random_state)
+3. RandomForestClassifier (random_state)
+4. ExtraTreesClassifier (random_state)
 
 hyperparameter tuning:
 1. A huge improvement in prediction
