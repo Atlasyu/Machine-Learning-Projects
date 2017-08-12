@@ -4,6 +4,9 @@ Models:
 1. Prophet - developed by facebook for time series prediction
 2. Deep learning in keras
 
+Remote data access :
+1. [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/)
+
 Speical plotting:
 1. [Candlestick plotting for stock](http://matplotlib.org/examples/pylab_examples/finance_demo.html)
 
