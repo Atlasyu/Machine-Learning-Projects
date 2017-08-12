@@ -19,7 +19,7 @@ Ensembles:
 3. RandomForestClassifier (random_state)
 4. ExtraTreesClassifier (random_state)
 
-hyperparameter tuning:
+Hyperparameter tuning:
 1. A huge improvement in prediction
 
 Dataset
