@@ -15,7 +15,7 @@ Couple tutorials:
 * [How to score 0.8134 in Titanic Kaggle Challenge](http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html)
 
 
-
+Summary:
 * Titanic: Machine Learning from Disaster is a fairly easy machine learning project. 101 level.
 * However, it's very difficult to pass the 80 mark in the LeaderBoard. The challenge here is to get past 80.
 * Initially, I tried dozens different data preparing techniques, and wasn't able to reach the 80 mark. Very frustrating. The highest I could get was around 78.
