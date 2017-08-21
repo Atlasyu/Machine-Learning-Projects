@@ -1,5 +1,7 @@
 # Boston House Price
 
+Very simple project. Doesn't even need to clean the data.
+
 Regression:
 1. LinearRegression()
 2. Lasso()
