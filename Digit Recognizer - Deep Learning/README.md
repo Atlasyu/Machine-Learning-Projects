@@ -21,5 +21,7 @@ Activation function:
 Data:
 [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/data)
 
-* Deep leanring is a very advanced field. It took me a while to finally start to understand what is it about.  
-* In this project, I used the Keras library. Keras is simple and easier to understand. It's simpler to me compared with Tensorflow or Theano - the backend.
+* Deep leanring is an advanced field. 
+* It took me a while to finally start to understand what is it about.  
+* I chose Keras for its simplicity. Easier to understand compared with Tensorflow and Theano.
+
