@@ -8,6 +8,16 @@ Dense class:
 * Fully-connected network structure with three layers
 * Modify optimizer - sgd
 
+Network structure:
+* Visible layer - 784 inputs
+* Hidden layer - 120 neurons
+* Hidden layer - 30 neurons
+* Output layer - 10 outputs
+
+Activation function:
+* Relu
+* Softmax
+
 Data:
 [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/data)
 
